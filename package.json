@@ -1,0 +1,16 @@
+{
+  "name": "bepo",
+  "main": "./lib/atom-bepo",
+  "version": "0.0.0",
+  "description": "Shortcuts to work with the BÉPO keyboard easily.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atom-bepo:insert-quote"
+  },
+  "repository": "https://github.com/ghivert/atom-bepo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
