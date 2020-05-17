@@ -1,7 +1,7 @@
 {
   "name": "bepo",
   "main": "./lib/atom-bepo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Shortcuts to work with the BÉPO keyboard easily.",
   "keywords": [],
   "activationCommands": {
